@@ -1,0 +1,7 @@
+{
+  "name": "ion-camera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
